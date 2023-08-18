@@ -94,7 +94,7 @@ nav ul {
     height: 3px;
     width: 0;
     position: absolute;
-    background-color:  rgb(80, 36, 56);
+    background-color:  rgb(7, 124, 36);
     transition: width 1s ease-in-out;
 }
 @media screen and (max-width: 950px){
